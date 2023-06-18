@@ -1,0 +1,4 @@
+jenkins:
+  user:samarpit
+  password:samarpit
+  url:http://localhost:8080/

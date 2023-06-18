@@ -1,0 +1,10 @@
+- job:
+    name: template2
+    project-type: freestyle
+    builders:
+      - shell: |
+          echo "Configuration Value: {{ config }}"
+          # Add your build steps here
+    publishers:
+      - archive:
+          artifacts: '**/*'
