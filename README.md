@@ -1,2 +1,2 @@
 # Intern1
-basic layout of developer using jenkinsapi.
+basic layout of developer portal using jenkinsapi.
